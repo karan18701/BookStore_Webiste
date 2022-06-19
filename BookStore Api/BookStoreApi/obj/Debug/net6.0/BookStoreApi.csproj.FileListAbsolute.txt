@@ -1,0 +1,74 @@
+F:\Internship\BookStoreApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Internship\BookStoreApi\bin\Debug\net6.0\appsettings.json
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreApi.exe
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreApi.deps.json
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreApi.runtimeconfig.json
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreApi.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreApi.pdb
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Npgsql.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreModels.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreRepository.dll
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreModels.pdb
+F:\Internship\BookStoreApi\bin\Debug\net6.0\BookStoreRepository.pdb
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.AssemblyReference.cache
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.AssemblyInfoInputs.cache
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.AssemblyInfo.cs
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.CoreCompileInputs.cache
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Internship\BookStoreApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Internship\BookStoreApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Internship\BookStoreApi\obj\Debug\net6.0\scopedcss\bundle\BookStoreApi.styles.css
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.CopyComplete
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.dll
+F:\Internship\BookStoreApi\obj\Debug\net6.0\refint\BookStoreApi.dll
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.pdb
+F:\Internship\BookStoreApi\obj\Debug\net6.0\BookStoreApi.genruntimeconfig.cache
+F:\Internship\BookStoreApi\obj\Debug\net6.0\ref\BookStoreApi.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreApi.exe
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreApi.deps.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreApi.runtimeconfig.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreApi.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreApi.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreRepository.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreModels.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\bin\Debug\net6.0\BookStoreRepository.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.csproj.CopyComplete
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\refint\BookStoreApi.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\BookStoreApi.genruntimeconfig.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreApi\obj\Debug\net6.0\ref\BookStoreApi.dll

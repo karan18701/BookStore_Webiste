@@ -1,0 +1,30 @@
+F:\Internship\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.deps.json
+F:\Internship\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.dll
+F:\Internship\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.pdb
+F:\Internship\BookStoreRepository\bin\Debug\net6.0\BookStoreModels.dll
+F:\Internship\BookStoreRepository\bin\Debug\net6.0\BookStoreModels.pdb
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.AssemblyReference.cache
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.AssemblyInfoInputs.cache
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.AssemblyInfo.cs
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.CopyComplete
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.dll
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\refint\BookStoreRepository.dll
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.pdb
+F:\Internship\BookStoreRepository\obj\Debug\net6.0\ref\BookStoreRepository.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.deps.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\bin\Debug\net6.0\BookStoreRepository.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\bin\Debug\net6.0\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\bin\Debug\net6.0\BookStoreModels.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.AssemblyReference.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.AssemblyInfoInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.AssemblyInfo.cs
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.csproj.CopyComplete
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\refint\BookStoreRepository.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\BookStoreRepository.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreRepository\obj\Debug\net6.0\ref\BookStoreRepository.dll

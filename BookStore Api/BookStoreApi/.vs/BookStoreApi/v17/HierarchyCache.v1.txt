@@ -1,0 +1,195 @@
+﻿++Solution 'BookStoreApi' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:BookStoreApi.sln
+++BookStoreRepository
+i:{00000000-0000-0000-0000-000000000000}:BookStoreRepository
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstorerepository\bookstorerepository.csproj
+++Dependencies
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:>214
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:>110
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:>82
+++UserRepository.cs
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:f:\internship\bookstorerepository\userrepository.cs
+++Analyzers
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:analyzers
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:analyzers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:analyzers
+++Frameworks
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:frameworks
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:frameworks
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:frameworks
+++Projects
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:projects
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:c:\users\vishakh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:c:\users\vishakh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\users\vishakh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:c:\users\vishakh\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:c:\users\vishakh\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:f:\internship\bookstorerepository\microsoft.netcore.app
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\microsoft.netcore.app
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\microsoft.netcore.app
+++BookStoreModels
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:f:\internship\bookstoremodels\bookstoremodels.csproj
+i:{00000000-0000-0000-0000-000000000000}:BookStoreModels
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoremodels\bookstoremodels.csproj
+++ViewModels
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\
+++Book.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\book.cs
+++BookStoreContext.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\bookstorecontext.cs
+++Cart.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\cart.cs
+++Category.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\category.cs
+++Orderdtl.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\orderdtl.cs
+++Ordermst.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\ordermst.cs
+++Publisher.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\publisher.cs
+++Role.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\role.cs
+++User.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\viewmodels\user.cs
+++Packages
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:packages
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:packages
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.4)
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:>161
+++BookStoreApi
+i:{00000000-0000-0000-0000-000000000000}:BookStoreApi
+++Connected Services 
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:>83
+++Properties
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\properties\
+++Controllers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\controllers\
+++UserController.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\controllers\weatherforecastcontroller.cs
+++appsettings.json
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\appsettings.json
+++Program.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\program.cs
+++WeatherForecast.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\weatherforecast.cs
+++No service dependencies discovered
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:>84
+++launchSettings.json
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\properties\launchsettings.json
+++appsettings.Development.json
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\microsoft.aspnetcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:>101
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:>363
+++NewFolder
+++Models
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\
+++LoginModel.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\loginmodel.cs
+++UserController.cs~RF78ad044.TMP
+++RegisterModel.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\registermodel.cs
+++UserRepository.cs~RF791af3d.TMP
+++UserRepository.cs~RF794d70a.TMP
+++UserController.cs~RF795d2df.TMP
+++UserRepository.cs~RF7a0866f.TMP
+++BookStoreController.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\controllers\bookstorecontroller.cs
+++BookStoreController.cs~RF8068e2f.TMP
+++UserRepository.cs~RF83113af.TMP
+++UserRepository.cs~RF832596d.TMP
+++UserRepository.cs~RF836f740.TMP
+++UserController.cs~RF83de31a.TMP
+++UserController.cs~RF8471b16.TMP
+++UserController.cs~RF84a5765.TMP
+++UserController.cs~RF84f0296.TMP
+++UserController.cs~RFf27bc86.TMP
+++upau33nk.nyo~
+++UserRepository.cs~RFf2acc46.TMP
+++UserRepository.cs~RFf2b6635.TMP
+++UserController.cs~RFf2bc6d3.TMP
+++okhamkgy.aag~
+++UserController.cs~RFf31c56e.TMP
+++UserController.cs~RFf32a8ba.TMP
+++UserRepository.cs~RFf3485c7.TMP
+++UserRepository.cs~RFf357b72.TMP
+++UserRepository.cs~RFf36200e.TMP
+++UserController.cs~RFf370d4d.TMP
+++UserController.cs~RFf37e993.TMP
+++UserController.cs~RFf384947.TMP
+++UserModel.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\usermodel.cs
+++pzywecaf.mdx~
+++UserModel.cs~RFf3d253c.TMP
+++UserController.cs~RFf4035c8.TMP
+++UserController.cs~RFf47f9d2.TMP
+++UserController.cs~RFf485ea6.TMP
+++UserController.cs~RFf4a8a12.TMP
+++UserController.cs~RFf4bb0af.TMP
+++CategoryController.cs
+i:{15870a55-6cdf-4f56-a96d-37b96443f724}:f:\internship\bookstoreapi\controllers\categorycontroller.cs
+++CategoryRepository.cs
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:f:\internship\bookstorerepository\categoryrepository.cs
+++BaseRepository.cs
+i:{1eb6c89f-c884-4d2f-a0be-6e56b44d8412}:f:\internship\bookstorerepository\baserepository.cs
+++ListResponse.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\listresponse.cs
+++CategoryRepository.cs~RF1955ed66.TMP
+++CategoryModel.cs
+i:{9f474a73-3f09-43fa-a7b8-4f4d5725017b}:f:\internship\bookstoremodels\models\categorymodel.cs
+++CategoryController.cs~RF1961a4ba.TMP
+++CategoryController.cs~RF19631b2d.TMP
+++CategoryRepository.cs~RF1966cbb2.TMP
+++CategoryRepository.cs~RF1968d1b4.TMP
+++CategoryRepository.cs~RF196bd520.TMP
+++CategoryController.cs~RF196e5bea.TMP
+++CategoryController.cs~RF1971df73.TMP
+++CategoryController.cs~RF197558fa.TMP
+++CategoryController.cs~RF1976213c.TMP
+++CategoryController.cs~RF1977b46f.TMP
+++CategoryController.cs~RF197a5b82.TMP
+++CategoryController.cs~RF197b24fc.TMP
+++CategoryController.cs~RF197cf874.TMP
+++CategoryController.cs~RF19800835.TMP
+++4wn2m4v1.adk~
+++CategoryController.cs~RF19826d7d.TMP
+++CategoryController.cs~RF1982df61.TMP
+++CategoryController.cs~RF198662ea.TMP
+++CategoryController.cs~RF1986bd01.TMP

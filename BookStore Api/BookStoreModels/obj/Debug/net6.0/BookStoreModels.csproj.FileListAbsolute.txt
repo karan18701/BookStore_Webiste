@@ -1,0 +1,28 @@
+F:\Internship\BookStoreModels\bin\Debug\net6.0\BookStoreModels.deps.json
+F:\Internship\BookStoreModels\bin\Debug\net6.0\BookStoreModels.runtimeconfig.json
+F:\Internship\BookStoreModels\bin\Debug\net6.0\BookStoreModels.dll
+F:\Internship\BookStoreModels\bin\Debug\net6.0\BookStoreModels.pdb
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.csproj.AssemblyReference.cache
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.AssemblyInfoInputs.cache
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.AssemblyInfo.cs
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.csproj.CoreCompileInputs.cache
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.dll
+F:\Internship\BookStoreModels\obj\Debug\net6.0\refint\BookStoreModels.dll
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.pdb
+F:\Internship\BookStoreModels\obj\Debug\net6.0\BookStoreModels.genruntimeconfig.cache
+F:\Internship\BookStoreModels\obj\Debug\net6.0\ref\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\bin\Debug\net6.0\BookStoreModels.deps.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\bin\Debug\net6.0\BookStoreModels.runtimeconfig.json
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\bin\Debug\net6.0\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\bin\Debug\net6.0\BookStoreModels.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.csproj.AssemblyReference.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.AssemblyInfo.cs
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\refint\BookStoreModels.dll
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.pdb
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\BookStoreModels.genruntimeconfig.cache
+C:\Users\Karan Tanakhia\OneDrive\Desktop\BookStore-Website-main\BookStore Api\BookStoreModels\obj\Debug\net6.0\ref\BookStoreModels.dll
